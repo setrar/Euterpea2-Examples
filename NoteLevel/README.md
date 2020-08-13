@@ -14,4 +14,4 @@ Prelude> play ( note qn (C,4) :+: note qn (E,4) :: Music Pitch )
 
 # Reference
 
-https://www.youtube.com/watch?v=xtmo6Bmfahc Abstraction 101
+[Abstraction 101](https://youtu.be/xtmo6Bmfahc?t=721)

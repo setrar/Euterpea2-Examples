@@ -10,3 +10,8 @@ See [video](https://youtu.be/UVcXNhgVr9o?t=180)
 Prelude> play ( Prim (Note hn (C,4)) :+: Prim (Note hn (E,4)) :: Music Pitch )
 Prelude> play ( note qn (C,4) :+: note qn (E,4) :: Music Pitch )
 ```
+
+
+# Reference
+
+https://www.youtube.com/watch?v=xtmo6Bmfahc Abstraction 101

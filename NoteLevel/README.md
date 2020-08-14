@@ -17,3 +17,5 @@ Prelude> play ( note qn (C,4) :+: note qn (E,4) :: Music Pitch )
 [Abstraction 101](https://youtu.be/xtmo6Bmfahc?t=721)
 
 [Music, Math and Computation - Professor Paul Hudak](https://www.youtube.com/watch?v=AjoYU5kpL6U)
+
+[Zero Order III (Real-Time Generative Music with Euterpea)](https://www.youtube.com/watch?v=0kE6MjdKZcY)

@@ -19,3 +19,5 @@ Prelude> play ( note qn (C,4) :+: note qn (E,4) :: Music Pitch )
 [Music, Math and Computation - Professor Paul Hudak](https://www.youtube.com/watch?v=AjoYU5kpL6U)
 
 [Zero Order III (Real-Time Generative Music with Euterpea)](https://www.youtube.com/watch?v=0kE6MjdKZcY)
+
+[calculator notenames](http://www.sengpielaudio.com/calculator-notenames.htm)

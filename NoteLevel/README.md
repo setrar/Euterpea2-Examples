@@ -11,6 +11,11 @@ Prelude> play ( Prim (Note hn (C,4)) :+: Prim (Note hn (E,4)) :: Music Pitch )
 Prelude> play ( note qn (C,4) :+: note qn (E,4) :: Music Pitch )
 ```
 
+```haskell
+Prelude> x1 = c 4 en :+: g 4 en :+: c 5 en :+: g 5 en
+Prelude> play ( x1 :+: transpose (-2) x1 :+: transpose (-4) x1)
+```
+
 
 # Reference
 
